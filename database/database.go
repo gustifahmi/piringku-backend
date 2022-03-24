@@ -11,7 +11,7 @@ import (
 //	host     = "localhost"
 //	port     = "5432"
 //	user     = "postgres"
-//	password = "sangatbawel"
+//	password = ""
 //	dbname   = "piringku"
 //)
 
